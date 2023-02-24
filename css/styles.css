@@ -73,3 +73,21 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+/* Theme */
+
+main {
+	background: #FAFAFA;
+	color: #000000;
+}
+
+.icons-social a {
+	color: #000000;
+}
+
+.logo img {
+  width: calc(100% - 3rem);
+  max-width: 550px;
+  height: auto;
+}
+
